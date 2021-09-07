@@ -4,6 +4,7 @@ module.exports = {
     title: "NFT_website",
   },
   plugins: [
+    "gatsby-transformer-sharp",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     {
